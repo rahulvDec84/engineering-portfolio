@@ -212,6 +212,28 @@ section h2{
     gap:25px;
 
 }
+.project-details {
+    display: none;
+    margin-top: 15px;
+    border-top: 1px solid #e0e0e0;
+    padding-top: 15px;
+}
+
+.details-btn {
+    margin-top: 12px;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 6px;
+    background: #2563eb;
+    color: white;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: background 0.3s ease;
+}
+
+.details-btn:hover {
+    background: #1d4ed8;
+}
 
 /* Contact */
 
