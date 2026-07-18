@@ -293,7 +293,7 @@ Simulation, Industrial AI and Software Development.
 
 <div class="project-grid">
 
-<div id="digital-twin", class="project-card featured">
+<div id="digital-twin" class="project-card featured">
 
     <h3>🏭 Hybrid Digital Twin Platform</h3>
 
@@ -337,7 +337,7 @@ Simulation, Industrial AI and Software Development.
 
 </div>
 
-<div id="cfd-automatio",class="project-card">
+<div id="cfd-automatio" class="project-card">
 
     <h3>🤖 CFD Simulation Automation Framework</h3>
 
@@ -383,7 +383,7 @@ Simulation, Industrial AI and Software Development.
 
 </div>
 
-<div id="cooler-twin",class="project-card">
+<div id="cooler-twin" class="project-card">
 
 <h3>Cooler Digital Twin</h3>
 
@@ -423,7 +423,7 @@ Python • Streamlit • NumPy • Plotly
 
 </div>
 
-<div id="sofc-development", class="project-card">
+<div id="sofc-development" class="project-card">
 
     <h3>🔥 Solid Oxide Fuel Cell (SOFC) Development</h3>
 
@@ -471,7 +471,7 @@ Python • Streamlit • NumPy • Plotly
 
 </div>
 
-<div id="self-development", class="project-card">
+<div id="self-development" class="project-card">
 
 
 
@@ -512,7 +512,7 @@ Python • Flask • GCP • HTML • CSS • JavaScript
 
 </div>
 
-<div id="other-projects",class="project-card">
+<div id="other-projects" class="project-card">
 
     <h3>🌍 Additional Engineering Projects</h3>
 
