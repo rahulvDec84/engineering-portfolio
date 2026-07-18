@@ -383,7 +383,7 @@ Simulation, Industrial AI and Software Development.
 
 </div>
 
-<div  id="cooler-twin",class="project-card">
+<div id="cooler-twin",class="project-card">
 
 <h3>Cooler Digital Twin</h3>
 
@@ -423,7 +423,7 @@ Python • Streamlit • NumPy • Plotly
 
 </div>
 
-<div "sofc-development", class="project-card">
+<div id="sofc-development", class="project-card">
 
     <h3>🔥 Solid Oxide Fuel Cell (SOFC) Development</h3>
 
@@ -512,7 +512,7 @@ Python • Flask • GCP • HTML • CSS • JavaScript
 
 </div>
 
-<div "other-projects",class="project-card">
+<div id="other-projects",class="project-card">
 
     <h3>🌍 Additional Engineering Projects</h3>
 
