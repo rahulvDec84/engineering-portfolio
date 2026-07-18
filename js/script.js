@@ -9,8 +9,17 @@ window.addEventListener("scroll", function () {
 
 });
 
+// Project Expand / Collapse
 function toggleProject(id, button) {
 
-    alert(id);
+    const details = document.getElementById(id);
+
+    details.classList.toggle("show");
+
+    if (details.classList.contains("show")) {
+        button.innerHTML = "Hide Details ▲";
+    } else {
+        button.innerHTML = "View Details ▼";
+    }
 
 }
